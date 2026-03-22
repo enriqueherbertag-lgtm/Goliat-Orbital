@@ -6,7 +6,7 @@ No es un cazador. Es un barretero. Una sola nave, una boca de succión del tama�
 
 ---
 
-## 📌 Índice
+##  Índice
 
 - [El Problema](#el-problema)
 - [La Solución](#la-solución)

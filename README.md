@@ -98,18 +98,6 @@ El ciclo es cerrado. La nave se alimenta del gas atmosférico para mantener su �
 | Validación en órbita | Pendiente (fase 1) |
 
 ---
-
-## Licencia
-
-Copyright 2026 Enrique Aguayo H.
-
-Este proyecto está licenciado bajo **Apache 2.0 con restricción de uso comercial**.  
-Para uso comercial se requiere un acuerdo por escrito con el autor.
-
-Contacto: eaguayo@migst.cl
-
----
-
 ## Autor
 
 **Enrique Aguayo H.**  

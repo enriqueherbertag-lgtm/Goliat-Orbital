@@ -12,7 +12,8 @@ No es un cazador. Es un barretero. Una sola nave, una boca de succión del tama�
 
 Si usás Goliat-Orbital en tu investigación, por favor citá:
 
-Aguayo H., E. (2026). Goliat-Orbital: Captura y reciclaje de basura espacial (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.XXXXXX
+Aguayo H., E. (2026). Goliat-Orbital: Captura y reciclaje de basura espacial (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/6cd55943-cb70-4027-ade8-bbaf9ff57e7d" />
+
 
 ---
 

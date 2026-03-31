@@ -6,6 +6,14 @@
 
 No es un cazador. Es un barretero. Una sola nave, una boca de succión del tamaño de una cancha de fútbol, que orbita en la misma dirección que los fragmentos y los absorbe. Los procesa a bordo. Los convierte en materia prima. Los vende en órbita.
 
+
+
+## Cita
+
+Si usás Goliat-Orbital en tu investigación, por favor citá:
+
+Aguayo H., E. (2026). Goliat-Orbital: Captura y reciclaje de basura espacial (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.XXXXXX
+
 ---
 
 ##  Índice

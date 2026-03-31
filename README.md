@@ -2,18 +2,14 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
+<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/ea659b6d-844b-436b-9e81-68f7b3e54630" />
+
+
+
+
 **Sistema orbital autónomo para captura, procesamiento y reciclaje de basura espacial.**
 
 No es un cazador. Es un barretero. Una sola nave, una boca de succión del tamaño de una cancha de fútbol, que orbita en la misma dirección que los fragmentos y los absorbe. Los procesa a bordo. Los convierte en materia prima. Los vende en órbita.
-
-
-
-## Cita
-
-Si usás Goliat-Orbital en tu investigación, por favor citá:
-
-Aguayo H., E. (2026). Goliat-Orbital: Captura y reciclaje de basura espacial (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/6cd55943-cb70-4027-ade8-bbaf9ff57e7d" />
-
 
 ---
 

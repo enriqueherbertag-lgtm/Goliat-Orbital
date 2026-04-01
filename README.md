@@ -102,15 +102,39 @@ El ciclo es cerrado. La nave se alimenta del gas atmosférico para mantener su �
 | Prototipo | Pendiente |
 | Validación en órbita | Pendiente (fase 1) |
 
+## Licencia
+
+Copyright © 2026 Enrique Aguayo. Todos los derechos reservados.
+
+Este proyecto está protegido por derechos de autor.
+
+**PERMITIDO:**
+- Uso no comercial con fines educativos o de investigación.
+- Distribución sin modificación, siempre que se mantenga esta licencia y se dé crédito al autor.
+
+**PROHIBIDO sin autorización expresa por escrito:**
+- Uso comercial (incluyendo, pero no limitado a: ofrecerlo como servicio, SaaS, suscripción, integración en productos que generen ingresos, o cualquier uso que genere beneficio económico directo o indirecto).
+- Modificación para entornos de producción.
+- Distribución de versiones modificadas sin autorización.
+
+Para licencias comerciales, soporte técnico, pilotos empresariales o consultas:
+Contacto: **eaguayo@migst.cl**
+
+Cualquier uso fuera de los términos permitidos requiere permiso previo del autor.
+
+Las consultas comerciales son bienvenidas y se responderán en un plazo máximo de 7 días hábiles.
+
 ---
+
 ## Autor
 
 **Enrique Aguayo H.**  
-Investigador independiente, Mackiber Labs  
+Mackiber Labs  
 Contacto: eaguayo@migst.cl  
 ORCID: 0009-0004-4615-6825  
-GitHub: [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
+GitHub: @enriqueherbertag-lgtm
 
+Documentación asistida por **Ana (DeepSeek)** , IA para investigación y optimización técnica.
 ---
 
 > *"La basura de una órbita es el combustible de la siguiente."*

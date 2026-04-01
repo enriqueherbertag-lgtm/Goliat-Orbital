@@ -1,11 +1,5 @@
 # GOLIAT-ORBITAL
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
-<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/ea659b6d-844b-436b-9e81-68f7b3e54630" />
-
-
-
 
 **Sistema orbital autónomo para captura, procesamiento y reciclaje de basura espacial.**
 
